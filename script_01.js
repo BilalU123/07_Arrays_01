@@ -3,8 +3,18 @@
 /* Die Satzbau-Maschine | Arrays */
 
 /*** 02. Theorie: Array */
+//let arr;          //variable für Array
+  //arr = new Array(); // konstruktor
+  //arr = [];  //Literal
+   //arr = [2,7,11,4];     // 4 Elemente
+//   arr = [false, true,false,true];
+  //arr = ["Ich","bin","Maxine","Mützerich"];
 
-
+// output(arr);
+// output(arr.length);   //Anzahl der Element
+// output(arr[0]);         // index 0 (1. position. in Array)
+// output(arr[3]); 
+// output(arr[arr.length -1]); //
 
 /*** 01. Funktionalität mit Einzelparametern */
 // --> "Ich bin Max Mütze."
